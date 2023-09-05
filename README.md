@@ -8,6 +8,7 @@ The journey to Kedarnath is not only about the destination but also the arduous 
 The __Kedarnath Temple__ holds immense spiritual significance for Hindus. It is one of the holiest shrines dedicated to Lord Shiva and is considered one of the twelve Jyotirlingas. Pilgrims visit the temple to seek blessings, offer prayers, and perform religious rituals.<br><br>
 
 -----
+
 # Activities that can be at favourite spot
 
 1. Visiting Temple
@@ -23,6 +24,7 @@ The __Kedarnath Temple__ holds immense spiritual significance for Hindus. It is 
 **[MyStats page link](MyStats.md)**
 
 ----
+
 # Sports Recommendation Table
 
 A sports recommendation table is a list that provides suggestions related to sports activities. It typically includes information such as the type of sport, why we that recommended that sport, and avg hours to be spend on that sport. This table is often used to help individuals to make decisions about which sports to participate.
@@ -37,9 +39,10 @@ A sports recommendation table is a list that provides suggestions related to spo
 
 
 -----
+
 # Pithy Quotes
->"Success is not final, failure is not fatal: It is the courage to continue that counts." - *Winston Churchill*
->"The only way to do great work is to love what you do." - *Steve Jobs*
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." - *Winston Churchill*
+> "The only way to do great work is to love what you do." - *Steve Jobs*
 
 
 
