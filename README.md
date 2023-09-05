@@ -14,4 +14,9 @@ The __Kedarnath Temple__ holds immense spiritual significance for Hindus. It is 
 2. Exploring the temple architecture
 3. Treking
 
+# Food available at favourite spot
+
+- Lemon rice
+- Sweet
+- Dal/Sambar rice
 
