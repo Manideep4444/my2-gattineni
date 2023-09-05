@@ -25,14 +25,15 @@ The __Kedarnath Temple__ holds immense spiritual significance for Hindus. It is 
 ----
 # Sports Recommendation Table
 
-A sports recommendation table is a list that provides suggestions related to sports activities. It typically includes information such as the type of sport, why we that recommended that sport, and avg hours to be spend on that sport. This table is often used to help individuals to make decisions about which sports to participate.<br>
+A sports recommendation table is a list that provides suggestions related to sports activities. It typically includes information such as the type of sport, why we that recommended that sport, and avg hours to be spend on that sport. This table is often used to help individuals to make decisions about which sports to participate.
+
 
 | Name of Sport | Reason for Recommending | Hours to spend in a week |
-| --- | --- | --:- |
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
+| --- | --- | --- |
+| Cricket | Improves all types of skills | 10 hours |
+| Volleyball | Improves all types of skills | 5 hours |
+| Badminton | Improves all types of skills | 2 hours |
+| Football | Improves all types of skills | 3 hours |
 
 
 
