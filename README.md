@@ -36,5 +36,10 @@ A sports recommendation table is a list that provides suggestions related to spo
 | Football | Improves all types of skills | 3 hours |
 
 
+-----
+# Pithy Quotes
+"Success is not final, failure is not fatal: It is the courage to continue that counts." - *Winston Churchill*<br>
+"The only way to do great work is to love what you do." - *Steve Jobs*
+
 
 
