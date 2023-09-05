@@ -20,5 +20,5 @@ The __Kedarnath Temple__ holds immense spiritual significance for Hindus. It is 
 - Sweet
 - Dal/Sambar rice
 
-**[MyStats page link](MyStats.md)** 
+
 
