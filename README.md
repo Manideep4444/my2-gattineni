@@ -10,7 +10,8 @@ The __Kedarnath Temple__ holds immense spiritual significance for Hindus. It is 
 -----
 # Activities that can be at favourite spot
 
-1.Visiting Temple
-2.Exploring the temple architecture
-3.Treking
+1. Visiting Temple
+2. Exploring the temple architecture
+3. Treking
+
 
