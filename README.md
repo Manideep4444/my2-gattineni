@@ -46,4 +46,11 @@ A sports recommendation table is a list that provides suggestions related to spo
 > "The only way to do great work is to love what you do." - *Steve Jobs*
 
 
+-----
+
+# Code Fencing
+
+> [Validating age using JQUERY](https://stackoverflow.com/questions/22781994/age-check-by-birthdate-to-exact-date-for-jquery-validate)
+
+
 
