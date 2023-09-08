@@ -50,25 +50,15 @@ A sports recommendation table is a list that provides suggestions related to spo
 
 # Code Fencing
 
-> [article on stack overflow for Validating age using JQUERY](https://stackoverflow.com/questions/22781994/age-check-by-birthdate-to-exact-date-for-jquery-validate)
+> [article on stack overflow for comments in CSS](https://stackoverflow.com/questions/9812489/html-comments-in-css)
 
-```$("#age-form").submit(function(){
-	var day = $("#day").val();
-	var month = $("#month").val();
-	var year = $("#year").val();
-	var age = 18;
-	var mydate = new Date();
-	mydate.setFullYear(year, month-1, day);
-
-	var currdate = new Date();
-	currdate.setFullYear(currdate.getFullYear() - age);
-	if ((currdate - mydate) < 0){
-		alert("Sorry, only persons over the age of " + age + " may enter this site");
-		return false;
-	}
-	return true;
-});
 ```
-> [Link to the snippet source](https://css-tricks.com/snippets/jquery/validate-age/)
+body {
+  font-family: system-ui;
+  font-size: 62.5%  /* 1em = 10px */
+  line-height: 1.4;
+}
+```
+> [Link to the snippet source](https://css-tricks.com/snippets/css/comments-in-css/)
 
 
